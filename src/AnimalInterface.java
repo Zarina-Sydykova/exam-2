@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface AnimalInterface {
+public interface AnimalInterface {
+    void run();
+    void eat(String food);
 }

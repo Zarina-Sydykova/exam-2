@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface TransportInterface {
+public interface TransportInterface {
+    void fuelConsumption(String fuel, int litr);
 }

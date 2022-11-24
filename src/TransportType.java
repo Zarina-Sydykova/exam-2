@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum TransportType {
+public enum TransportType {
+    ROAD_TRANSPORT,
+    AIR_TRANSPORT;
 }

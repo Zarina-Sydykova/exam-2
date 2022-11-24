@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum AnimalType {
+public enum AnimalType {
+    DOMESTIC_ANIMAL,
+    BIRD;
 }
